@@ -1,16 +1,6 @@
 "use strict";
 
 /*
-   New Perspectives on HTML5, CSS3, and JavaScript 6th Edition
-   Tutorial 13
-   Review Assigment
-
-   Shopping Cart Form Script
-   
-   Author: Abdifatah Ali
-   Date:   January 27, 2020   
-   
-   Filename: co_cart.js
    
    Function List
    =============
